@@ -1,1 +1,1 @@
-# pika.web
+Built this UI website while improving my frontend development skills. During this project, I strengthened my understanding of research skills, problem-solving, UI design concepts, and CSS positioning techniques. Focused on creating clean layouts, responsive sections, and better user interface understanding using HTML and CSS.
